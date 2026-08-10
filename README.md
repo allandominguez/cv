@@ -26,10 +26,10 @@ Backend Software Engineer with 5+ years of experience building scalable, high-av
 | **Career Break** | *January 2025 – Present* |
 | :---- | ----: |
 
-**Personal Development & Family Support**
+**Independent Development & Family Support**
 
-- Dedicated time to family commitments while maintaining technical sharp edge through intensive system design research and active development.
-- Project "Leaf": Architecting a production-grade backend service using Django REST Framework and PostgreSQL, focusing on decoupled microservices and CI/CD automation.
+- Project "Still": Designed and built a privacy-first daily photo journal for Android using React Native (TypeScript) and Expo, with a local-first data model and a planned self-hosted Go sync service; shipped the core capture-to-calendar flow end-to-end as a personal-use alpha build running on-device.
+- Balanced this work part-time around family caregiving commitments, maintaining technical sharp edge through system design research and hands-on development throughout.
 
 ---
 
@@ -81,13 +81,14 @@ Backend Software Engineer with 5+ years of experience building scalable, high-av
 
 ## Projects
 
-### Leaf — minimalist notes app *(In Progress)*
+### Still — daily photo journal *(Alpha — in active development)*
 
-- Designing and building a backend service for a microservices-oriented application, with a decoupled React Native frontend
-- Developing RESTful APIs using Django and PostgreSQL, with a focus on clean architecture and domain-driven design principles
-- Defining service boundaries and API contracts to support independent development and future scalability
-- Implementing production-oriented practices including automated testing (pytest), CI/CD (GitHub Actions), and containerised deployment workflows
-- Planned stack includes Django REST Framework, token-based authentication, and cloud-based media storage integration
+- Privacy-first mobile photo journal for Android built with React Native (TypeScript) and Expo; one photo per day, all data stored on-device
+- Shipped the core capture-to-calendar loop end-to-end as a personal-use alpha build running on a physical device: camera/gallery capture with EXIF-based location extraction, calendar view with photo thumbnails, day detail view with persistent notes, and photo delete/replace
+- Local-first data model: SQLite for structured metadata and on-device file system for compressed photos, with no account or network required by default
+- Designed a tiered backup architecture planned for a later development phase: Google Drive OAuth for cloud snapshot backup (Tier 2) and an optional self-hosted Go sync service via Docker for multi-device sync (Tier 3)
+- CI/CD pipeline via GitHub Actions (ESLint, TypeScript type-checking, Jest) gates every PR; pre-commit secrets scanning via gitleaks
+- Managed release engineering independently: self-managed Android signing keystore (kept outside EAS), ABI-restricted release build (~60% smaller APK), and SemVer versioning from the start of the project
 
 ### Additional Projects
 
