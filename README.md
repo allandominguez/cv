@@ -57,7 +57,7 @@ Backend Software Engineer with 5+ years of experience building scalable, high-av
 - Used observability tooling (Datadog, CloudWatch) to identify and resolve performance bottlenecks
 - Led incident response and coordinated cross-team efforts during outages
 - *Key achievement:*
-  - Reduced reporting system execution time from 8+ hours to under 2 hours through database and query optimisation
+  - Reduced reporting system execution time from 8+ hours to under 2 hours by tracing the regression to a redundant per-entity data lookup and fixing it with transaction-scoped caching
 
 **Facilitated Team's Social Contract**
 
