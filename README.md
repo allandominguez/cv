@@ -23,7 +23,7 @@ Backend Software Engineer with 5+ years of experience building scalable, high-av
 
 ## Experience
 
-| **Career Break** | *January 2025 – Present* |
+| **Career Break** | *April 2025 – Present* |
 | :---- | ----: |
 
 **Independent Development & Family Support**
