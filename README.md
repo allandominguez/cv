@@ -43,6 +43,7 @@ Backend Software Engineer with 5+ years of experience building scalable, high-av
 - Designed and optimised PostgreSQL schemas, improving query performance and data integrity under production load
 - Built and maintained backend services within a distributed architecture, supporting reliable inter-service communication
 - Deployed and operated services on AWS (EC2, RDS, CloudWatch) with CI/CD pipelines to ensure reliability and observability
+- Developed locally using Docker, running the containerised CRM service alongside PostgreSQL; helped refine and debug the platform team's compose setup for wider developer use, including macOS compatibility
 
 **Lead Backend Engineer (MFE projects)**
 
@@ -104,9 +105,3 @@ Backend Software Engineer with 5+ years of experience building scalable, high-av
 | Macquarie University, Sydney | *August 2014 – December 2017* |
 | :---- | ----: |
 | California State University (CSULB), Long Beach, USA | *August 2016 – December 2016* |
-
----
-
-## Referees
-
-Contact details available upon request.
