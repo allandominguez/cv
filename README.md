@@ -103,3 +103,9 @@ Backend Software Engineer with 5+ years of experience building scalable, high-av
 | Macquarie University, Sydney | *August 2014 – December 2017* |
 | :---- | ----: |
 | California State University (CSULB), Long Beach, USA | *August 2016 – December 2016* |
+
+---
+
+## Referees
+
+Contact details available upon request.
