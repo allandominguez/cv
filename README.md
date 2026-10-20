@@ -84,12 +84,10 @@ Backend Software Engineer with 5+ years of experience building scalable, high-av
 
 ### Still — daily photo journal *(Alpha — in active development)*
 
-- Privacy-first mobile photo journal for Android built with React Native (TypeScript) and Expo; one photo per day, all data stored on-device
-- Shipped the core capture-to-calendar loop end-to-end as a personal-use alpha build running on a physical device: camera/gallery capture with EXIF-based location extraction, calendar view with photo thumbnails, day detail view with persistent notes, and photo delete/replace
-- Local-first data model: SQLite for structured metadata and on-device file system for compressed photos, with no account or network required by default
-- Designed a tiered backup architecture planned for a later development phase: Google Drive OAuth for cloud snapshot backup (Tier 2) and an optional self-hosted Go sync service via Docker for multi-device sync (Tier 3)
-- CI/CD pipeline via GitHub Actions (ESLint, TypeScript type-checking, Jest) gates every PR; pre-commit secrets scanning via gitleaks
-- Managed release engineering independently: self-managed Android signing keystore (kept outside EAS), ABI-restricted release build (~60% smaller APK), and SemVer versioning from the start of the project
+- Privacy-first Android photo journal in React Native (TypeScript) and Expo. Local-first: SQLite for metadata, on-device storage for photos, and no account or network required by default
+- Shipped the core capture-to-calendar loop end-to-end as a personal-use alpha on a physical device: photo capture with EXIF location, calendar thumbnails, day notes, and photo delete/replace
+- Designed a tiered backup architecture for a later phase: Google Drive OAuth snapshots (Tier 2) and an optional self-hosted Go sync service via Docker (Tier 3)
+- GitHub Actions CI (ESLint, TypeScript type-checking, Jest) gates every PR, with pre-commit secrets scanning via gitleaks. Independently managed release engineering: self-managed Android signing keystore, ABI-restricted release build (~60% smaller APK), and SemVer from the start
 
 ### Additional Projects
 
