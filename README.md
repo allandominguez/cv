@@ -6,7 +6,7 @@
 
 ## Professional Summary
 
-Backend Software Engineer with 5+ years of experience building scalable, high-availability systems using Python, Django, and PostgreSQL. Proven track record of improving system performance, reliability, and developer productivity in distributed architectures. Experienced in API design, domain-driven design, and cloud-based deployment on AWS.
+Backend Software Engineer with 5+ years of experience building scalable, high-availability systems using Python, Django, and PostgreSQL. Proven track record of improving system performance, reliability, and developer productivity in distributed architectures. Experienced in API design, domain-driven design, and cloud-based deployment on AWS. Uses AI tooling to optimise day-to-day development while staying close to design and implementation.
 
 ---
 
@@ -17,7 +17,7 @@ Backend Software Engineer with 5+ years of experience building scalable, high-av
 | Backend | Django, REST APIs, PostgreSQL, SQLAlchemy, Pytest, Microservices |
 | Frontend | React, TypeScript, HTML, CSS |
 | Cloud & DevOps | AWS (EC2, RDS, CloudWatch), Docker, CI/CD (Buildkite, TeamCity), Terraform (familiar) |
-| Practices | Domain-Driven Design, Clean Architecture, TDD, Distributed Systems |
+| Practices | Domain-Driven Design, Clean Architecture, TDD, Distributed Systems, AI-Assisted Development |
 
 ---
 
@@ -29,6 +29,7 @@ Backend Software Engineer with 5+ years of experience building scalable, high-av
 **Independent Development & Family Support**
 
 - Project "Still": Designed and built a privacy-first daily photo journal for Android using React Native (TypeScript) and Expo, with a local-first data model and a planned self-hosted Go sync service; shipped the core capture-to-calendar flow end-to-end as a personal-use alpha build running on-device.
+- Adopted AI-assisted development (Claude Code) to move faster as a solo engineer, delegating scaffolding and refactors while directing the architecture and reviewing every change
 - Balanced this work part-time around family caregiving commitments, maintaining technical sharp edge through system design research and hands-on development throughout.
 
 ---
@@ -88,6 +89,7 @@ Backend Software Engineer with 5+ years of experience building scalable, high-av
 - Shipped the core capture-to-calendar loop end-to-end as a personal-use alpha on a physical device: photo capture with EXIF location, calendar thumbnails, day notes, and photo delete/replace
 - Designed a tiered backup architecture for a later phase: Google Drive OAuth snapshots (Tier 2) and an optional self-hosted Go sync service via Docker (Tier 3)
 - GitHub Actions CI (ESLint, TypeScript type-checking, Jest) gates every PR, with pre-commit secrets scanning via gitleaks. Independently managed release engineering: self-managed Android signing keystore, ABI-restricted release build (~60% smaller APK), and SemVer from the start
+- Used Claude Code for scaffolding, refactors, and review passes, while designing the architecture and data model myself and reviewing every change
 
 ### Additional Projects
 
