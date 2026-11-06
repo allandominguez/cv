@@ -23,27 +23,23 @@ Backend Software Engineer with 5+ years of experience building scalable, high-av
 
 ## Experience
 
-| **Career Break** | *January 2025 – Present* |
+| **Career Reassessment & Professional Development** | *November 2025 – Present* |
 | :---- | ----: |
-
-*Family Responsibilities, Career Reassessment & Professional Development*
-
-**Family Responsibilities (January – October 2025)**
-
-- Following redundancy from Iress in a company-wide restructure, made a deliberate decision to put family first, supporting my family through health challenges.
-- Scaled back the job search to focus on caregiving and family responsibilities, applying selectively.
-
-**Transition & Career Reassessment (November 2025 – May 2026)**
 
 - Reassessed career direction and professional goals as personal circumstances became more manageable, and committed to refreshing and broadening my technical skills.
 - Studied system design (consistency and availability trade-offs, caching and scalability patterns, practice designs such as rate limiters and notification systems) and data structures and algorithms, including a year-long NeetCode subscription.
 - Built an authentication service with native Django REST Framework (custom user model, JWT access and refresh tokens) for an earlier React Native app, deepening my Django and full-stack TypeScript skills.
-
-**Professional Development & Job Search (June 2026 – Present)**
-
 - Project "Still": Designed and built a privacy-first daily photo journal for Android using React Native (TypeScript) and Expo; shipped the core capture-to-calendar flow end-to-end as a personal-use alpha build running on-device (see Projects).
 - Adopted AI-assisted development (Claude Code) and built a custom workflow around it: project instructions, persistent memory, reusable skills and guardrail hooks, plus a streamlined job-application workflow, while directing the architecture and reviewing every change.
 - Currently upskilling in Go to deepen my backend knowledge in a more modern stack.
+
+---
+
+| **Family Responsibilities** | *January 2025 – October 2025* |
+| :---- | ----: |
+
+- Following redundancy from Iress in a company-wide restructure, made a deliberate decision to put family first, supporting my family through health challenges.
+- Scaled back the job search to focus on caregiving and family responsibilities, applying selectively.
 
 ---
 
