@@ -39,7 +39,7 @@ Backend Software Engineer with 5+ years of experience building scalable, high-av
 | :---- | ----: |
 
 - Following redundancy from Iress in a company-wide restructure, made a deliberate decision to put family first, supporting my family through health challenges.
-- Scaled back the job search to focus on caregiving and family responsibilities, applying selectively.
+- Scaled back the job search to focus on caregiving and family responsibilities.
 
 ---
 
