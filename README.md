@@ -27,7 +27,7 @@ Backend Software Engineer with 5+ years of experience building scalable, high-av
 | :---- | ----: |
 
 - Built an authentication service with native Django REST Framework (custom user model, JWT access and refresh tokens) for an earlier React Native app, deepening my Django and full-stack TypeScript skills.
-- Adopted AI-assisted development (Claude Code) and built a custom workflow around it: project instructions, persistent memory, reusable skills and guardrail hooks, plus a streamlined job-application workflow, while directing the architecture and reviewing every change.
+- Adopted AI-assisted development (Claude Code) and built a custom workflow around it: project instructions, persistent memory, reusable skills and guardrail hooks, plus a streamlined job-application workflow, so standards are enforced automatically and delivery moves faster without lowering the bar.
 - Project "Still": Designed and built a privacy-first daily photo journal for Android using React Native (TypeScript) and Expo; shipped the core capture-to-calendar flow end-to-end as a personal-use alpha build running on-device (see Projects).
 - Studied system design (consistency and availability trade-offs, caching and scalability patterns, practice designs such as rate limiters and notification systems) and data structures and algorithms.
 - Currently upskilling in Go to deepen my backend knowledge in a more modern stack.
@@ -96,7 +96,7 @@ Backend Software Engineer with 5+ years of experience building scalable, high-av
 - Shipped the core capture-to-calendar loop end-to-end as a personal-use alpha on a physical device: photo capture with EXIF location, calendar thumbnails, day notes, and photo delete/replace
 - Designed a tiered backup architecture for a later phase: Google Drive OAuth snapshots (Tier 2) and an optional self-hosted Go sync service via Docker (Tier 3)
 - GitHub Actions CI (ESLint, TypeScript type-checking, Jest) gates every PR, with pre-commit secrets scanning via gitleaks. Independently managed release engineering: self-managed Android signing keystore, ABI-restricted release build (~60% smaller APK), and SemVer from the start
-- Used Claude Code for scaffolding, refactors, and review passes, while designing the architecture and data model myself and reviewing every change
+- Used Claude Code for scaffolding, refactors, and review passes, while designing the architecture and data model myself
 
 ### Additional Projects
 
