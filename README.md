@@ -29,7 +29,7 @@ Backend Software Engineer with 5+ years of experience building scalable, high-av
 - Built an authentication service with native Django REST Framework (custom user model, JWT access and refresh tokens) for an earlier React Native app, deepening my Django and full-stack TypeScript skills.
 - Adopted AI-assisted development (Claude Code) and built a custom workflow around it: project instructions, persistent memory, reusable skills and guardrail hooks, plus a streamlined job-application workflow, while directing the architecture and reviewing every change.
 - Project "Still": Designed and built a privacy-first daily photo journal for Android using React Native (TypeScript) and Expo; shipped the core capture-to-calendar flow end-to-end as a personal-use alpha build running on-device (see Projects).
-- Studied system design (consistency and availability trade-offs, caching and scalability patterns, practice designs such as rate limiters and notification systems) and data structures and algorithms, including a year-long NeetCode subscription.
+- Studied system design (consistency and availability trade-offs, caching and scalability patterns, practice designs such as rate limiters and notification systems) and data structures and algorithms.
 - Currently upskilling in Go to deepen my backend knowledge in a more modern stack.
 
 ---
